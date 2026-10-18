@@ -1,0 +1,1518 @@
+{
+"sections": [
+{
+"id": 1,
+"title": "I BO’LIM. O’ZBEKISTON – MENING VATANIM"
+},
+{
+"id": 2,
+"title": "II BO’LIM. EKOLOGIYA VA SALOMATLIK"
+},
+{
+"id": 3,
+"title": "III BO’LIM. ULG’AYAMAN VA RIVOJLANAMAN"
+},
+{
+"id": 4,
+"title": "IV BO’LIM. FAN VA MADANIYAT"
+}
+],
+"topics": [
+{
+"id": 1,
+"section": 1,
+"title": "1-mavzu. Bolalarning huquqlari (4–5-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "O’zbekiston Bola huquqlari to’g’risidagi xalqaro konvensiyani qaysi yilda imzolagan?",
+"answer": "B (1992).",
+"options": [
+"1990",
+"1992",
+"2000",
+"2020"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Nima uchun Konvensiyada yozilgan huquqlar barcha bolalar uchun muhim?",
+"answer": "Ular bolalarning hayoti va salomatligi, baxtiyor ulg’ayishi va har tomonlama rivojlanishi uchun zarur."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Matnga ko’ra, bolalarning shaxsiy huquqlari bilan fuqarolik huquqlari qanday farq qiladi?",
+"answer": "Shaxsiy huquqlar Konvensiyada yozilgan, bolalarga tug’ilganidan beri tegishli (yashash, ta’lim, dam olish va h.k.). Fuqarolik huquqlariga ulg’aygach ega bo’linadi: odam jamiyat va davlat hayotida to’laqonli ishtirok etadi, o’ziga tegishli voqealarga ta’sir ko’rsata oladi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "“Dam olish huquqi” nima uchun bolalar uchun kerak? O’z fikringizni misol bilan asoslang.",
+"answer": "Charchagan bola yaxshi o’qiy olmaydi va salomatligi yomonlashadi. Dam olgan bola tetik bo’ladi, o’yin va sayrda rivojlanadi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Jadval tuzing: “Mening huquqim” – “Men undan qanday foydalanayapman”. Kamida 3 ta huquq yozing.",
+"answer": "Ta’lim olish – maktabda o’qiyman; Tibbiy xizmatdan foydalanish – kasal bo’lsam shifokorga boraman; Dam olish – dam olish kunlari sayrga chiqaman."
+}
+]
+},
+{
+"id": 2,
+"section": 1,
+"title": "2-mavzu. Fuqaroning asosiy burchlari (6-bet)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Davlatning asosiy qonuni nima deb ataladi?",
+"answer": "B.",
+"options": [
+"Kodeks",
+"Konstitutsiya",
+"Nizom",
+"Konvensiya"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Matnga ko’ra, jamiyatdagi o’zaro munosabatlar haqida ilk amaliy ko’nikmalarni qayerda olamiz?",
+"answer": "Oila va maktabda: ular hayotimizning ilk davridan bizni bag’riga oladigan asosiy jamoalardir."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Nima uchun faqat o’z huquqlarimizni bilish yetarli emas?",
+"answer": "Jamoada va jamiyatda hamjihatlik bo’lishi uchun inson burchlarini ham bajarishi kerak. Birov o’z huquqini talab qilib, burchini bajarmasa, boshqalarning huquqi buziladi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Fuqaroning burchlaridan qaysi biri bugun sizga eng yaqin va nima uchun? (Maktab hayotidan misol keltiring.)",
+"answer": "“Tabiatni muhofaza qilish”: men maktab hovlisiga chiqindi tashlamayman va ko’chat parvarish qilaman."
+},
+{
+"id": "task",
+"type": "task",
+"q": "“Mening burchlarim” plakatini chizing: oila uchun 2 ta, maktab uchun 2 ta, Vatan uchun 1 ta burch yozing.",
+"answer": "Oila: katta yoshlilarga yordam berish; ukamni kuzatish. Maktab: darsga kech qolmaslik; sinfni toza tutish. Vatan: tabiatni asrash."
+}
+]
+},
+{
+"id": 3,
+"section": 1,
+"title": "3-mavzu. Fuqarolik fazilatlari (7-bet)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Quyidagilardan qaysi biri matnda fuqarolik fazilati sifatida keltirilgan?",
+"answer": "C (matnda halollik, adolatlilik, do’stlik, hamjihatlik, hurmat, Vatanni sevish fuqarolik fazilatlari sanalgan; jasorat, tartiblilik va muomala odobi shaxsiy fazilatlar).",
+"options": [
+"Jasorat",
+"Tartiblilik",
+"Halollik",
+"Muomala odobi"
+],
+"correct": 2
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Shaxsiy fazilatlarga uchta misol keltiring.",
+"answer": "Muomala odobi, qat’iyat, jasorat, tartiblilik (ikkitasi ham yetarli)."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Shaxsiy va fuqarolik fazilatlari o’rtasidagi farqni tushuntiring.",
+"answer": "Shaxsiy fazilatlar yaxshi hayot kechirish va muvaffaqiyat qozonishda bir insonga yordam beradi. Fuqarolik fazilatlari esa butun jamiyat va mamlakat farovonligi uchun zarur."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "“Fuqarolik fazilatlarimizni namoyon qilish orqali mamlakatimizning gullab-yashnashiga hissa qo’shamiz”, degan fikrga qo’shilasizmi? Asoslang.",
+"answer": "Ha, chunki hamma bir-biriga hurmat va yordam ko’rsatsa, jamiyat ahil bo’ladi, va ahil jamiyat tezroq rivojlanadi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "O’tgan haftada o’zingiz ko’rsatgan bitta fuqarolik fazilatini tasvirlab, 3–4 gapdan iborat kichik hikoya yozing.",
+"answer": ""
+}
+]
+},
+{
+"id": 4,
+"section": 1,
+"title": "4-mavzu. Hamjihatlik (8-bet)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Jamshid yo’lda nima bo’lib qolgan edi?",
+"answer": "B.",
+"options": [
+"Yo’qolgan",
+"Velosipedi buzilib, yiqilib tushgan",
+"Darsga kechikkan",
+"Kasal bo’lgan"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Hikoyani aytib berayotgan bola Jamshid haqida dastlab nima deb o’ylagan edi va nima uchun?",
+"answer": "U Jamshid o’zi a’lochi bo’lgani uchun bolalarni pisand qilmaydi deb o’ylagan. Jamshid epchil bo’lmagani uchun bolalar bilan o’ynashga kam chiqardi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Bu voqea qanday yaxshilikka sabab bo’ldi? Hech bo’lmaganda ikkita natijani ayting.",
+"answer": "Bolalar do’stlashib oldi; Jamshid har kuni birga o’ynaydigan bo’ldi; ikki haftadan keyin u matematikadan murakkab masalani tushuntirib berdi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "“Xolis yordam” nimani anglatadi? Nima uchun bunday yordam jamiyat uchun muhim?",
+"answer": "Majbur bo’lgani uchun emas, yordam bergisi kelgani uchun, evaziga hech narsa kutmasdan yordam berish. Bunday o’zaro yordam jamiyatni gullab-yashnatadi, odam o’zini baxtli va kerakli his qiladi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Sinfingizda yordamga muhtoj bo’lgan sinfdoshga qanday xolis yordam berishingiz mumkinligini ro’yxatlang (3 ta amaliy qadam).",
+"answer": ""
+}
+]
+},
+{
+"id": 5,
+"section": 1,
+"title": "5-mavzu. Hurmat (9–10-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Matnga ko’ra, hurmat nima?",
+"answer": "B.",
+"options": [
+"Faqat kattalarni ulug’lash",
+"Odamni hech qanday maqtovga loyiq ish qilmagan bo’lsa ham hurmatga loyiq ko’rish",
+"Hamma bilan bir xil fikrda bo’lish",
+"Faqat a’lochilarni hurmat qilish"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Hikoyada hikoyachining sinfi nima uchun ahil emas edi?",
+"answer": "Sinfdoshlar bir-biri bilan yaxshi munosabatda emas edi, ba’zan tortishuvlar bo’lardi. Yaxshi o’qiydigan bolalar o’zini baland tutib, doskada xato qilganlarni masxara qilardi. Hikoyachi va uning o’rtoqlari esa jismoniy tarbiya darsida ularning ustidan kulardi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "“Hurmat – har qanday, hatto bir-biridan mutlaqo boshqacha insonlarni ham o’zaro bog’laydigan ko’prikdir” jumlasi nimani anglatadi?",
+"answer": "Hurmat turli xususiyatli, qobiliyatli odamlarni bir-biriga yaqinlashtiradi. Ular birgalikda alohida qila olmagan ishlarni amalga oshira oladi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Muallif yoshi ulug’ odamlarga hurmat o’z-o’zidan paydo bo’ladi deydi. Nima uchun har bir odamni hurmat qilish qiyinroq? Fikringizni asoslang.",
+"answer": "Chunki odam unga yoqmaydigan, o’xshamaydigan yoki fikri boshqacha insonni hurmat qilishni istamaydi; buning uchun o’zini o’zi yengish kerak."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Hikoyadagi sinfga yordam beradigan “Ahillik qoidalari” ro’yxatini tuzing (kamida 4 ta qoida).",
+"answer": ""
+}
+]
+},
+{
+"id": 6,
+"section": 1,
+"title": "6-mavzu. Adolat (11–12-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Qadimgi yunonlar adolatni qaysi ma’buda qiyofasida tasavvur qilishgan?",
+"answer": "B.",
+"options": [
+"Afina",
+"Femida",
+"Artemida",
+"Gera"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Hovlidagi tennis stoli voqeasida katta bolalar nimani ro’kach qilib, kichiklarni haydashdi?",
+"answer": "“Siz o’zingiz ham hozirgina xuddi shunday qildingiz-ku!”, deb. Ya’ni ular kichiklarning o’zi ham shunday qilganini aytishdi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Nima uchun yunonlar Femidaning ko’zini bog’langan deb tasavvur qilishgan deb o’ylaysiz?",
+"answer": "Adolatli sudya odamning kimligiga qarab emas, xolis qaror chiqarishi kerak: ko’zi bog’langan bo’lsa, kimdir uchun yon bosmaydi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Birovlar bilan kelishmovchilik bo’lsa, adolatli bo’lishga yordam beradigan qoidalardan qaysi biri sizga muhimroq ko’rinadi va nima uchun?",
+"answer": "“O’zimizni ularning o’rniga qo’yib ko’raylik”, chunki shunda ikkinchi tomonning nega xafa bo’lganini tushunaman."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Tennis stoli voqeasini rollarga bo’lib o’ynang (kichiklar, katta bolalar, hakam). Hamma uchun adolatli yechim toping va 2–3 gapda yozing.",
+"answer": " Namuna yechim: navbat bilan o’ynash: har bir guruh 10 daqiqa, keyin almashadi."
+}
+]
+},
+{
+"id": 7,
+"section": 1,
+"title": "7-mavzu. Biz – yo’l harakati qatnashchilarimiz (13–14-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Qaysi transport vositalarida harakatlanuvchilar piyoda hisoblanadi?",
+"answer": "B.",
+"options": [
+"Faqat velosipedda",
+"Rolik, samokat, velosiped, sigvey, giroskuterda",
+"Avtobusda",
+"Motorollerda"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Nima uchun velosipedni ekologik toza transport deyishadi?",
+"answer": "Uning motori yo’q, shovqin chiqarmaydi va yoqilg’iga xarajat kerak emas."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Rasmdagi bolalar qaysi qoidalarga rioya qilmayapti? (Piyodalar o’tish yo’lagida velosipedda va samokatda harakatlanish, quloqchinda musiqa tinglash.)",
+"answer": "Velosipedchi va samokatchi piyodalar o’tish yo’lagidan tushmasdan o’tmoqda (tushib, yetaklab o’tish kerak). Samokatdagi bola harakat paytida quloqchin taqib musiqa tinglamoqda (taqiqlangan)."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Nima uchun yo’l harakati qoidalariga nafaqat o’zimiz, balki boshqalarning xavfsizligi uchun ham amal qilishimiz shart?",
+"answer": "Qoidani buzgan bola boshqa piyoda yoki haydovchiga ham xavf tug’diradi. Bir kishining beparvoligi baxtsiz hodisaga olib kelishi mumkin."
+},
+{
+"id": "task",
+"type": "task",
+"q": "“Velosipedda xavfsiz harakatlanish” bo’yicha eslatma-varaqa tayyorlang (3 ta qoida va chizma). Namuna: minishdan oldin g’ildirak, tormoz, qo’ng’iroqni tekshirish; ramaga o’tirmaslik va boshqani o’tqazmaslik; rulni bir qo’lda boshqarmaslik.",
+"answer": ""
+}
+]
+},
+{
+"id": 8,
+"section": 1,
+"title": "8-mavzu. Temir yo’l yaqin bo’lsa (15-bet)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Temir yo’lni qayerdan kesib o’tish mumkin?",
+"answer": "B.",
+"options": [
+"Istalgan joydan",
+"Faqat piyodalar o’tish joyi, ko’prik yoki maxsus yo’laklar orqali",
+"Vagonlar orasidan",
+"Relslar ustidan yurib"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Temir yo’l bekatlarida vagonlarga qanday yaqinlashish kerak?",
+"answer": "Vagonlarga to’liq to’xtamaguncha yaqinlashmaslik kerak, to’xtab turgan bo’lsa ham vagonga suyanmaslik kerak."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Nima uchun yurib ketayotgan poyezdning vagoniga chiqishga yoki undan tushishga harakat qilish mumkin emas?",
+"answer": "Odam yiqilib, g’ildirak ostida qolishi yoki og’ir jarohat olishi mumkin. Harakatdagi poyezdni to’xtatib bo’lmaydi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Sizningcha, yo’lovchi va piyodalarga yana qanday tavsiyalar berish kerak? Kamida bitta qo’shimcha qoida taklif qiling va asoslang.",
+"answer": "Temir yo’l yonida quloqchin taqib yurmaslik, chunki poyezd signalini eshitmay qolish mumkin."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Kichik guruhda “Temir yo’l xavfsizligi” bo’yicha 5 ta belgi (rasm bilan) chizing va ularning ma’nosini yozing.",
+"answer": ""
+}
+]
+},
+{
+"id": 9,
+"section": 2,
+"title": "9-mavzu. Havoning ifloslanishi (16–17-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Mashinalar motori ishlashi natijasida paydo bo’ladigan gazlar nima deyiladi?",
+"answer": "B.",
+"options": [
+"Tuman",
+"Chiqindi gazlar",
+"Bug’",
+"Tutun-qoplama"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "1952-yil dekabrda Londonda nima yuz berdi va oqibati qanday bo’ldi?",
+"answer": "Buyuk tuman (great smog) shaharni qoplab oldi. Oqibatda 12 ming kishi halok bo’ldi, 100 mingdan ortiq odam zarar ko’rdi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Chiqindi gazlar inson salomatligiga qanday ta’sir qiladi? Matn asosida tushuntiring.",
+"answer": "Zararli moddalar nafas yo’liga tushib organizmni zaharlaydi: boshi og’riydi, ko’ngli ayniydi, hatto hushidan ketishi mumkin. Qancha ko’p tushsa, oqibati shuncha yomon."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Matnda havo ifloslanishining qanday yechimlari taklif qilingan? Qaysi biri sizning shahringiz uchun amaliyroq deb o’ylaysiz?",
+"answer": "Ekologik jamoat transporti (tramvay, trolleybus, metro), elektromobillar, serqatnov ko’chalar va binolar orasiga qalin butalar ekish. (Fikr asoslangan bo’lsa, qabul qilinadi.)"
+},
+{
+"id": "task",
+"type": "task",
+"q": "“Toza havo uchun men nima qila olaman?” mavzusida 5 ta amaliy harakatdan iborat ro’yxat tuzing (masalan, yaqin masofaga piyoda yoki velosipedda borish, daraxt ekish).",
+"answer": ""
+}
+]
+},
+{
+"id": 10,
+"section": 2,
+"title": "10-mavzu. Suv zaxiralari (18–19-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Rasulning dadasi qanday kasb egasi?",
+"answer": "B.",
+"options": [
+"Haydovchi",
+"Suv quvurlari bo’yicha muhandis",
+"Dehqon",
+"Shifokor"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Asqarning qishlog’ida suv qayerdan olinadi?",
+"answer": "Quvur yo’q. O’zlari qazigan hovuzda yomg’ir suvini to’plashadi; yozda esa maxsus mashinalarda ikki haftada bir olib kelinadigan suvni qimmat narxda sotib olishadi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Rasulning suvga bo’lgan munosabati hikoya davomida qanday o’zgardi va nima uchun?",
+"answer": "Avval u suvni cheksiz deb hisoblab, uni isrof qilgan (soatlab ochib qo’ygan). Asqarning hayotini ko’rgach, suvning qadriga yetdi va buvisiga endi hech qachon isrof qilmaslikka so’z berdi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Muallif hikoyaga nima uchun “Basseyn” deb nom bergan deb o’ylaysiz? Bu nom hikoyaning mazmuniga qanchalik mos?",
+"answer": "Asqar bir marta ham basseynda cho’milmagan, Rasul esa suvni isrof qiladi. Nom ikki bolaning suvga munosabatidagi farqni ko’rsatadi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Uyingizda bir kun davomida suvni tejash rejasini tuzing (kamida 4 ta band) va 3 kundan so’ng natijani sinfda aytib bering.",
+"answer": ""
+}
+]
+},
+{
+"id": 11,
+"section": 2,
+"title": "11-mavzu. Cho’llanish va cho’ldagi o’rmon (20–21-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Qishloq bo’lgan Qorayantoqda necha oila yashaydi?",
+"answer": "A.",
+"options": [
+"Yuzga yaqin",
+"O’ttizga yaqin",
+"Ming",
+"Besh yuz"
+],
+"correct": 0
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Namoz aka birinchi yili ekkan ko’chatlar nima uchun qurib qoldi? Keyingi yilda nima qildi?",
+"answer": "Ko’chatlar garmselga dosh berolmadi. Namoz aka har bir ko’chat tagiga biroz loy solib ekilsa qurib qolmasligini topdi va 50 gektar joyga 15 ming dona saksovul ekdi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Daraxtlar tabiat va odam uchun qanday foyda keltiradi? Matndan uchta dalil keltiring.",
+"answer": "Ildizi yerosti suvini yuqoriga ko’tarib, suv havzalarining qurib qolishidan saqlaydi; soya-salqin beradi; barglari havodagi chang va qum zarralarini tortib olib, havoni tozalaydi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Namoz aka “Bir o’zimning qo’limdan nima ham kelardi?” demaganini ta’kidlashadi. Bu hikoyadan qanday xulosa chiqarasiz?",
+"answer": "Bir odamning qat’iyati va mehnati ham katta natija beradi; boshqalar uni qo’llab-quvvatlaganda esa yanada katta ish qilish mumkin."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Maktab hovlisi yoki mahallangiz uchun “Ko’kalamzorlashtirish loyihasi” tuzing: nima ekiladi, qayerga, kim parvarish qiladi (jadval ko’rinishida).",
+"answer": ""
+}
+]
+},
+{
+"id": 12,
+"section": 2,
+"title": "12-mavzu. Chiqindini qayta ishlash va ekologiyani asrash (22–25-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "“Siniq deraza nazariyasi” nimani anglatadi?",
+"answer": "B.",
+"options": [
+"Binolarni ta’mirlash qoidasi",
+"Odamlarning mayda qonunbuzarliklarga beparvoligi",
+"Shisha chiqindisini ajratish usuli",
+"Shahar rejasi"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Hokim shahar ko’chalarida nima uchun chiqindi to’planib qolayotganini aniqladi?",
+"answer": "Xonadonlardagi chiqindilarni tashlab kelish ko’pincha 9–11 yashar bolalarga buyurilar, ular esa maxsus qutilarga olib borishga erinib, ko’cha chetiga tashlab ketardi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Hikoyada bolalar xulq-atvorining o’zgarishi shaharga qanday ta’sir qildi?",
+"answer": "Bolalar chiqindini faqat axlat qutisiga tashlaydigan bo’ldi, uka-singillariga “pokiza shahar qoidalari”ni o’rgata boshladi, kattalar ham chiqindini duch kelgan joyga tashlashga uyaldi; natijada shahar eng pokiza shaharga aylandi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Darslikda ekologiyani asrash uchun uchta maslahat berilgan. Sizningcha, qaysi biri eng samarali va nima uchun?",
+"answer": "(1) Do’konga xalta yoki ryukzak olib borish. (2) Tejamkor bo’lish, keragidan ortiq oziq-ovqat sotib olmaslik. (3) Eski narsalarga yangi hayot bag’ishlash. Fikr asoslangan bo’lsa, qabul qilinadi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Sinfda chiqindini saralash bo’yicha tajriba o’tkazing: 6 ta quti (shisha, qog’oz, plastmassa, elektronika, metall, oziq-ovqat) uchun yorliq tayyorlang va 10 ta chiqindini to’g’ri qutilarga joylashtiring.",
+"answer": ""
+}
+]
+},
+{
+"id": 13,
+"section": 2,
+"title": "13-mavzu. Shaxsiy gigiyena (26–27-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Tishlarni qachon yuvish kerak?",
+"answer": "B.",
+"options": [
+"Faqat ertalab",
+"Har kuni ertalab va kechqurun",
+"Haftada bir marta",
+"Faqat ovqatdan oldin"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Qo’lni qaysi hollarda sovunlab yuvish kerak? Kamida to’rttasini ayting.",
+"answer": "Hojatxonadan chiqqach, jonivorlar bilan o’ynagandan keyin, ovqatlanishdan oldin va keyin, ko’chadan kelganda, uy tozalaganda, qo’l kir bo’lsa."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Nima uchun kiyimning kir va betartib bo’lishi “boshqalarga nisbatan ham hurmatsizlik” deyilgan?",
+"answer": "Kir, betartib kiyim bilan yurgan odam atrofdagilarga yoqimsizlik tug’diradi, ularning hissiyotiga e’tiborsizlik ko’rsatadi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Xonaning tozaligi shaxsiy gigiyena bilan bog’liqmi? Bu qoidalar sinf xonangizga ham tegishlimi? Fikringizni asoslang.",
+"answer": "Ha, chunki chang va kir tashqaridan poyabzal bilan kiradi; sinfni tez-tez shamollatish va nam latta bilan artish kasallikning oldini oladi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "“Kichik teri jarohatlarida (shilinish, ko’karish, kuyish) birinchi yordam” bo’yicha 3 qadamli yo’riqnoma tuzing va katta yoshlilardan so’rab tekshiring.",
+"answer": ""
+}
+]
+},
+{
+"id": 14,
+"section": 2,
+"title": "14-mavzu. To’g’ri ovqatlanish (28-bet)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Sog’lom ovqatlanish nima?",
+"answer": "B.",
+"options": [
+"Faqat go’sht yeyish",
+"Xilma-xil masalliqlardan tayyorlangan taomlar va meva-sabzavotlarni muntazam, shoshilmay yeyish",
+"Kuniga bir marta yeyish",
+"Faqat shirinliklar yeyish"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Allergiya nima va allergiyasi bor odam nima qilishi shart?",
+"answer": "Ayrim moddalarga nisbatan alohida sezuvchanlik. Allergiyasi bor odam shifokordan maslahat olishi shart."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Yeydigan ovqatimiz qanday talablarga javob berishi kerak?",
+"answer": "Uning quvvati va oziq moddalari tanamiz o’sishi hamda har kungi faolligi uchun yetarli bo’lishi kerak."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Sabzi inson a’zolaridan qaysi biriga foydali? Sog’lom ovqatlanishda sizga qaysi odat yetishmaydi deb o’ylaysiz?",
+"answer": "Sabzi ko’z uchun foydali (A vitamini). Bu savolga darslikda javob berilmagan, qo’shimcha umumiy ma’lumot sifatida qabul qilinadi. Ikkinchi qism – o’quvchining shaxsiy javobi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "O’zingiz uchun bir kunlik sog’lom menyu tuzing (nonushta, tushlik, kechki ovqat, aralash ovqat) va unga kamida ikkita sabzavot yoki meva kiriting.",
+"answer": ""
+}
+]
+},
+{
+"id": 15,
+"section": 2,
+"title": "15-mavzu. Jismoniy faollik va oqilona kun tartibi (29–30-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Sport bilan shug’ullanadigan odam qanday bo’ladi?",
+"answer": "B.",
+"options": [
+"Ko’p kasal bo’ladi",
+"Ko’p kasal bo’lmaydi, hushyorroq va chaqqonroq bo’ladi",
+"Stressga chidamsiz bo’ladi",
+"Tanasini nazorat qila olmaydi"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Ertalabki badantarbiya nega foydali?",
+"answer": "U erta tongdan tanaga va miyaga quvvat va yaxshi kayfiyat beradi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Qomatni to’g’ri tutish bilan skelet va mushaklar o’rtasida qanday bog’liqlik bor?",
+"answer": "Qaddimizning tik bo’lishi skelet va mushaklar holatiga bog’liq. Sport va jismoniy faollik mushaklarimizni, demak, qad-qomatimizni mustahkam qiladi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Nima uchun har kuni bir vaqtda uyg’onib, kechqurun bir vaqtda uyquga yotish tavsiya qilinadi? O’z fikringizni yozing.",
+"answer": "Tana muntazam tartibga o’rganadi, yetarli uxlagan bola tiniq, diqqatli bo’ladi va kun davomida kam charchaydi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "O’zingiz uchun bir kunlik kun tartibi tuzing: o’qish, uy ishlari, sayr/o’yin, sport, dam olish va uyqu vaqtlarini yozing.",
+"answer": ""
+}
+]
+},
+{
+"id": 16,
+"section": 2,
+"title": "16-mavzu. Chiniqish va zararli odatlardan xalos bo’lish (31-bet)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Matnga ko’ra, qaysi biri chiniqish turlariga kirmaydi?",
+"answer": "D (chekish – zararli odat).",
+"options": [
+"Toza havoda sayr",
+"Xonalarni shamollatish",
+"Havo vannasi, yalangoyoq yurish",
+"Chekish"
+],
+"correct": 3
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Suv bilan chiniqishni qanday boshlash kerak?",
+"answer": "Iliq suvda cho’milishdan boshlab, suv haroratini asta-sekin pasaytirib borish, keyin quruq sochiqda yaxshilab artinish bilan yakunlash."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Nima uchun chiniqish asta-sekin, lekin muntazam bo’lishi kerak?",
+"answer": "Organizm sovuqqa asta-sekin o’rganadi. Bir martalik yoki keskin chiniqish kasallik keltirishi mumkin. Muntazamlik esa immunitetni oshiradi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Chekish, alkogol va narkotik moddalar nega “sog’lom turmush tarziga mutlaqo ziddir”? Dalillar keltiring.",
+"answer": "Ular insonning o’sishi, aqliy rivojlanishiga to’sqinlik qiladi va turli kasalliklarni keltirib chiqaradi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "“Salomatligimni mustahkamlaydigan 5 ta odat” nomli plakat chizing va unga o’zingiz shakllantirmoqchi bo’lgan bitta yangi odatni qo’shing.",
+"answer": ""
+}
+]
+},
+{
+"id": 17,
+"section": 2,
+"title": "17-mavzu. Tibbiy ko’rik nima uchun kerak? (32–33-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Rasmlardagi shifokorlar qaysi mutaxassisliklarga mansub (rasmlarga qarab)?",
+"answer": "B (rasmlarda bola oyog’i refleksi tekshirilmoqda, ko’z o’tkirligi jadvali, bola tomog’i va tish shifokori ko’rigi aks ettirilgan).",
+"options": [
+"Faqat tish shifokori",
+"Umumiy shifokor, ko’z shifokori, LOR (quloq-tomoq-burun), tish shifokori",
+"Faqat jarroh",
+"Dorixona xodimi"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Rasmlarga ko’ra, tibbiy ko’rikda qaysi a’zolar tekshiriladi?",
+"answer": "Reflekslar (oyoq), ko’z, tomoq/quloq, tishlar."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Tibbiy ko’rikdan nima uchun muntazam o’tib turish kerak?",
+"answer": "Kasallikni erta aniqlash va davolash uchun; o’zimizni yaxshi his qilganda ham yashirin muammo bo’lishi mumkin; bolaning o’sishi va rivojlanishini kuzatish uchun."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "O’zingizni noxush sezsangiz, kimga va qayerga murojaat qilasiz? Nima uchun maxfiy tutmaslik kerak?",
+"answer": "Ota-onaga, maktab hamshirasi yoki shifokorga, poliklinikaga. Kasallikni yashirish uni og’irlashtiradi, erta murojaat tezroq tuzalishga yordam beradi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "“Shifokor qabulida” rolli o’yin: bir o’quvchi bemor, ikkinchisi shifokor bo’lib, 5 ta savol-javob tuzing.",
+"answer": ""
+}
+]
+},
+{
+"id": 18,
+"section": 2,
+"title": "18-mavzu. Xavfli vaziyatlarda qanday harakat qilish kerak? (34–35-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Xavfli vaziyatlar nima?",
+"answer": "B.",
+"options": [
+"Hamma yoqimsiz hodisalar",
+"Insonlar, ularning mol-mulki yoki atrof-muhit xavf ostida qolgan holatlar",
+"Faqat zilzila",
+"Faqat yong’in"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Zilzila paytida pastki qavatda yashaydiganlar nima qilishi kerak? Binodan chiqishga ulgurmaganlar-chi?",
+"answer": "Pastki qavatdagilar binodan tashqariga chiqishi kerak. Chiqishga ulgurmaganlar boshini biror narsa bilan to’sib, mustahkam stol yoki karavot tagida cho’kkalab o’tirishi, ichki devor burchagida yoki eshik ostida turishi, derazalardan uzoqroq bo’lishi kerak."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Yong’inning dastlabki belgilaridan qaysi biri bu ro’yxatga kirmaydi: kuygan hid, tutun, alanga, yo’tal, bezgak tutishi? Sababini tushuntiring.",
+"answer": "Javob (mantiqiy javob; kitobda kalit berilmagan): Bezgak tutishi: u yong’in belgisi emas, kasallik belgisi. Qolganlari yong’in belgilari bo’la oladi (darslikdagi ro’yxatda yana yonayotgan narsalarning ovozi, rezina hidi, elektr chiroqlarining o’chib-yonishi, ko’zlarning achishishi, og’izdagi achchiq ta’m ham bor)."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Yong’in sabablari ro’yxatiga yana nimalarni qo’shgan bo’lardingiz? Yong’inning oldini olish uchun nima qilish kerak?",
+"answer": "Ochiq o’choq yonida beparvolik, elektr asboblarini qoldirib ketish. Oldini olish: gugurt bilan o’ynamaslik, nosoz asboblarni ishlatmaslik, gaz plitasidan to’g’ri foydalanish."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Oilangiz uchun “Yong’in xavfsizligi bo’yicha eslatma” tuzing (kamida 5 qoida) va chiqish yo’li sxemasini chizing.",
+"answer": ""
+}
+]
+},
+{
+"id": 19,
+"section": 3,
+"title": "19-mavzu. Qobiliyatlarni rivojlantiramiz (36–37-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Matnga ko’ra, qobiliyat nima?",
+"answer": "B.",
+"options": [
+"Bilim",
+"Insonning bir ishni qila olishiga yordam beradigan shaxsiy xususiyati, salohiyati",
+"Millat",
+"Baho"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Umumiy qobiliyat bilan xususiy qobiliyatga bittadan misol keltiring.",
+"answer": "Umumiy: yaxshi xotira. Xususiy: musiqiy iste’dod."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Nima uchun inson o’zini hech qaysi sohada sinab ko’rmasa, o’zini qobiliyatsiz deb hisoblashi mumkin?",
+"answer": "Chunki qobiliyat, iste’dod faqat sinab ko’rilgandagina bilinadi; sinab ko’rmasa, o’zidagi imkoniyatni tasavvur qilmaydi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "“Inson o’zini qanday deb hisoblasa, shunday bo’ladi” (M. Gandi) so’zlarini o’z hayotingizdan misol bilan izohlang.",
+"answer": "Agar men “tenglamani yecha olmayman” desam, urinmayman; “yecha olaman” desam, mashq qilaman va yechaman."
+},
+{
+"id": "task",
+"type": "task",
+"q": "“Mening qobiliyatlarim” jadvalini to’ldiring: 3 ta qobiliyat – qaysi kasbga kerak – qanday rivojlantiraman.",
+"answer": ""
+}
+]
+},
+{
+"id": 20,
+"section": 3,
+"title": "20-mavzu. Estafeta (38–39-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Asqar estafetada qatnashishni so’raganda nima uchun sinfdoshlari rozi bo’lmadi?",
+"answer": "A.",
+"options": [
+"U sinfga yangi kelgan va harakatlari beo’xshovroq edi",
+"U kasal edi",
+"U kech qoldi",
+"U xohlamadi"
+],
+"correct": 0
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Nodira fikrini qaysi voqeadan keyin o’zgartirdi?",
+"answer": "Ra’no (chet davlatga ketgan sobiq sinfdosh) haqida o’ylab, uning yangi sinfda tushunilmay qolayotganini eslaganidan so’ng. Nodira Asqarning ahvolini Ra’noning ahvoliga o’xshatdi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Ra’no va Asqarning ahvolida qanday o’xshashlik bor?",
+"answer": "Ikkalasi ham yangi jamoada, o’zini tushunishmayapti; ularga “qo’lidan hech narsa kelmaydi” deb qarashadi, aslida esa qobiliyatlari bor."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Siz Nodiraning taklifini qo’llab-quvvatlagan bo’larmidingiz? Nima uchun?",
+"answer": "Ha, chunki hamma imkoniyat berilishi kerak; jamoa kuchli bo’lishi uchun faqat g’oliblar emas, ishtirok etishni xohlovchilar ham muhim."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Jamoaga yangi kelgan o’quvchini qo’llab-quvvatlash bo’yicha 5 ta amaliy maslahat yozing.",
+"answer": ""
+}
+]
+},
+{
+"id": 21,
+"section": 3,
+"title": "21-mavzu. Nurxon: kurashish, iroda, g’alaba (39–40-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Nurxon qaysi sport turi bilan shug’ullanadi?",
+"answer": "B.",
+"options": [
+"Suzish",
+"Nayza, disk va yadro uloqtirish",
+"Futbol",
+"Shaxmat"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Nurxon avvaliga aravachada qolgach qanday his qildi va keyin nima uchun fikri o’zgardi?",
+"answer": "Avval tushkunlikka tushdi. Keyin o’ziga achinib o’tirish xato ekanini, yashashda davom etish kerakligini tushundi; do’sti sport bilan nogironlar aravachasida ham shug’ullanish mumkinligini aytib, misollar keltirgan."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Nurxon “Muvaffaqiyatsizlik aslida muvaffaqiyat sari bosilgan qadam bo’larkan” deganda nimani nazarda tutgan?",
+"answer": "Har bir mag’lubiyat uning irodasini mustahkamladi va yanada ko’proq mehnat qilishga undadi, natijada u g’alabaga erishdi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Nurxonning hayot yo’li bizga nimani o’rgatadi? Siz qiyinchilikda o’zingizni qanday qo’llab-quvvatlaysiz?",
+"answer": "Hech qachon taslim bo’lmaslikni, atrofdagilar va oilaning yordamini qadrlashni. Shaxsiy javob."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Paralimpiya sportchisi haqida (kitob yoki internetdan) 5 gapdan iborat kichik ma’lumot tayyorlang va sinfda taqdimot qiling.",
+"answer": ""
+}
+]
+},
+{
+"id": 22,
+"section": 3,
+"title": "22-mavzu. Saboq olishni o’rganamiz: xato qilish va aqlni charxlash (41–44-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "“To’rt oyog’i bilan ot ham qoqiladi” maqolidan qanday xulosa chiqariladi?",
+"answer": "B.",
+"options": [
+"Otlar sust",
+"Adashish, xato qilish ayb emas, bu xatoni tuzatmaslik aybdir",
+"Qoqilgan odam ahmoq",
+"Xatolarni yashirish kerak"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Ismoil nima uchun murakkab boshqotirmani yechishga ikkilandi va ustozi unga qanday dalda berdi?",
+"answer": "U “juda murakkab, yecha olmasam kerak” deb o’yladi. Ustoz xato qilsa, boshqa yo’lni qidirib ko’rishini, murakkab masalalar miyani mashq qildirib, uni aqlli va kuchli qilishini aytdi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Xatolar nima uchun foydali ekanini darslik asosida tushuntiring (kamida ikkita sabab).",
+"answer": "Xato nimaga ko’proq e’tibor qaratish kerakligini ko’rsatadi; odamni o’ylashga, masalaning mohiyatiga yetishga undaydi; eski usul natija bermasa, yangi yechim izlashga majbur qiladi; xatolarni tahlil qilish o’sishga yordam beradi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Olimlarning (“xato qilishdan qo’rqmang”) so’zlariga qo’shilasizmi? O’z hayotingizdan misol keltiring.",
+"answer": "Ha. Men ilgari bo’linishda adashardim, xatolarimni tahlil qilib o’rgandim va endi to’g’ri yechaman."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Yangi o’rgangan biror ishingiz (velosiped, suzish, shaxmat) haqida “Boshida … edi, keyin … bo’ldi” shaklida 5 gaplik matn yozing.",
+"answer": ""
+}
+]
+},
+{
+"id": 23,
+"section": 3,
+"title": "23-mavzu. Xatolarning foydasi va kashfiyotlar (44–47-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Gugurt kim tomonidan va qanday sharoitda kashf qilingan?",
+"answer": "A.",
+"options": [
+"Dorishunos Jon Uoker, dori tayyorlayotib moddalarni cho’p bilan aralashtirayotganda",
+"Muhandis Persi Spenser",
+"Aleksandr Fleming",
+"Jon Pemberton"
+],
+"correct": 0
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Koka-kola va mikroto’lqinli pech qanday paydo bo’lgan?",
+"answer": "Koka-kola: Jon Pembertonning yordamchisi bosh og’rig’iga dori izlab yurib, tasodifan koka bargi va kola yong’og’ini gazli suvga aralashtirib qo’ygan. Mikroto’lqinli pech: muhandis Persi Spenser magnetron yonida turganida cho’ntagidagi shokolad erib ketgan."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Matnga ko’ra, haqiqiy kashfiyot qilish uchun inson qanday bo’lishi kerak?",
+"answer": "Qiziquvchan, so’rashdan tortinmaydigan; hech kim yurmagan yo’llardan yurishga va g’alati ko’ringan narsani sinab ko’rishga vaqt sarflashdan qo’rqmaydigan; mayda-chuydalarga, bir-biriga o’xshamaydigan narsalar orasidagi bog’liqlikka e’tibor beradigan; xato qilishdan qo’rqmaydigan."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Quyidagi fikrlarga qo’shilasizmi: “O’qishda eng muhimi – xato qilmaslik” va “O’yin ba’zan yangi narsani tezgina o’rganib olishga yordam beradi”? Nima uchun?",
+"answer": "Birinchisiga qo’shilmayman: xato qilmaslikka intilgan odam yangi narsa sinab ko’rmaydi. Ikkinchisiga qo’shilaman: o’yin orqali o’rganish qiziqarli va yaxshi eslab qolinadi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Rufat Matkarimovning “Zakovat” o’yini haqidagi matn asosida 5 ta mantiqiy savol tuzing va sinfdoshlaringiz bilan o’yin o’tkazing.",
+"answer": ""
+}
+]
+},
+{
+"id": 24,
+"section": 3,
+"title": "24-mavzu. Qo’ng’iroq soat (48–49-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Onasi Sevaraga nima sovg’a qildi?",
+"answer": "B.",
+"options": [
+"Telefon",
+"Aqlli soat",
+"Planshet",
+"Ruchka"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Payshanba kuni Sevara nima uchun darsini bajarishga ulgurmadi?",
+"answer": "Dugonasining tug’ilgan kunida istirohat bog’ida kech qolib, charchab qaytdi; uyqusi kelib, darsni chala-chulpa bajardi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Nima uchun bu safar aqlli soat Sevarani uyg’ota olmadi? Hikoyaning mazmuniga qarab o’z fikringizni ayting.",
+"answer": "Javob (mantiqiy javob; matnda sabab aniq aytilmagan): Sevara kuni bilan juda charchagan, darsini chala-chulpa bajargan va uyqusi qattiq bo’lgan; soat ovoz bergan bo’lsa ham, u eshitmadi. Soat odamni majburlay olmaydi: o’z vaqtida uyquga yotish va mas’uliyatni his qilish Sevaraning o’ziga bog’liq."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "“Mustaqil bo’lish” deganda nimani tushunasiz? Hikoyaning boshqa qanday tugashini taklif qilasiz?",
+"answer": "O’z ishini o’zi vaqtida bajarish, oqibatiga javob berish. Boshqa tugash: Sevara erta yotib, darsni oldin tayyorlab qo’yardi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Sevaraga “Ertalab o’z vaqtida uyg’onish va darsni tayyorlash” uchun 4 ta maslahat yozing.",
+"answer": ""
+}
+]
+},
+{
+"id": 25,
+"section": 3,
+"title": "25-mavzu. O’yinqaroqlik (50–51-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Davron ota-onasi bilan qanday kelishuvga erishgan edi?",
+"answer": "B.",
+"options": [
+"Har kuni 2 soat o’ynash",
+"Darslarni va uy ishlarini qilib, sport mashg’ulotidan keyin yarim soat o’ynash",
+"Faqat dam olish kunlari o’ynash",
+"O’yin o’ynamaslik"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Davron nima uchun o’yinga berilib ketdi? U o’zini qanday aldadi?",
+"answer": "Referat uchun kompyuterni ochgan va “bir qarab ko’ray-chi” degan. Har safar “hozir, yana ozgina, bir daqiqa” deb o’zini o’zi aldab turdi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Dadasi “Shu ish senga dars bo’lsin” deganda nimani nazarda tutdi?",
+"answer": "Davron kelishuvni buzib, singlisini bog’chadan kech olib ketdi, bu ishi bilan boshqalarni (singlisi, bog’cha opasi, dadasi) noqulay ahvolga soldi. Bundan xulosa chiqarib, mas’uliyatli bo’lishi kerak."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Vaqtni boshqarish bo’yicha tavsiyalardan qaysi biri Davronga eng ko’p yordam bergan bo’lardi va nima uchun?",
+"answer": "“Telefon va kompyuterdagi ovozlarni o’chirib qo’yish va 25 daqiqa ishlab, 10–15 daqiqa dam olish”, chunki chalg’imasdan ishlasa, referatni tez tugatib, o’ynashga vaqt qoladi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Qurilmalardan (telefon, planshet) foydalanish bo’yicha oilaviy “Kelishuv” tuzing: qachon, qancha vaqt, shart nima.",
+"answer": ""
+}
+]
+},
+{
+"id": 26,
+"section": 3,
+"title": "26-mavzu. Birovning ruchkasi (51–52-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Asilbekda qanday ruchka bor edi?",
+"answer": "A (Erkinning ruchkasida panda bor edi).",
+"options": [
+"Qopqog’ida mushuk surati bor mushukcha shaklidagi ruchka",
+"Qopqog’ida panda bor",
+"Qizil qalam",
+"Kumush ruchka"
+],
+"correct": 0
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Yangi qiz matematika darsida nima dedi va sinfdoshlar Asilbekka nimalarni aytishdi?",
+"answer": "Yangi qiz “Voy, ruchkam yo’qolib qoldi” dedi: uning mushukcha shaklidagi ruchkasi Asilbekdagiga o’xshash edi. Sinfdoshlar Asilbekning boshqa ishlarini ham eslab (qizlarning koptogini olib qo’yib bermagan, komiksni olib kelmagan, Erkinning planshetini qaytarmagan), unga yopishib olishdi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Erkin nima uchun Asilbekni himoya qilmadi? U buni qanday his qildi?",
+"answer": "Hamma Asilbekka yopishib olgani uchun Erkin indamay turib qoldi. Keyin o’zini yomon his qildi, o’ziga kela olmayotganini aytdi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Siz Erkinning o’rnida bo’lsangiz nima qilardingiz? Vaziyatni to’g’rilash uchun qanday maslahat berasiz?",
+"answer": "Ruchka bilan bog’liq haqiqatni aytib, Asilbekni himoya qilardim. Asilbekdan kechirim so’rab, sinf bilan tinch gaplashishni maslahat berardim."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Rollarga bo’lib o’ynang: Erkin, Asilbek, yangi qiz, sinfdoshlar. Hamma uchun to’g’ri va adolatli yechim toping.",
+"answer": ""
+}
+]
+},
+{
+"id": 27,
+"section": 3,
+"title": "27-mavzu. Kitob (53–54-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Kutubxonada nechta nusxa kitob qolgan edi?",
+"answer": "C (bittagina).",
+"options": [
+"Beshta",
+"Uchta",
+"Bitta",
+"O’nta"
+],
+"correct": 2
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Behzod kitobni nima uchun Ra’noga o’z vaqtida topshira olmadi?",
+"answer": "Kitobni o’rtog’i Sanjarga bergan, Sanjar esa kasal bo’lib qolib, kitobni qaytara olmadi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Behzodning xatosi nimada edi? Kim aybdor deb o’ylaysiz?",
+"answer": "Behzod Ra’noga va’da bergan va uni buzdi: kitobni boshqa odamga ishonib topshirdi. Asosiy mas’uliyat Behzodda, chunki va’dani u bergan."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Bolalar bu vaziyatdan qanday chiqishdi? Qaysi so’zlar va xatti-harakatlar yordam berdi?",
+"answer": "Behzod xijolat chekib, voqeani halol aytdi, Ra’no avval jahli chiqsa ham, keyin tushundi. Behzod kitobni o’zi borib olib kelishni taklif qildi, Ra’no esa “mayli” dedi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "“Va’da berish va uni bajarish qoidalari” ro’yxatini tuzing (kamida 4 ta qoida). Masalan: va’da berishdan oldin uddalay olishimni o’ylash.",
+"answer": ""
+}
+]
+},
+{
+"id": 28,
+"section": 3,
+"title": "28-mavzu. Muhim qo’ng’iroq (54–55-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Zulfiya va Temur qaysi raqamga telefon qilishdi?",
+"answer": "D (gaz xizmati).",
+"options": [
+"101",
+"102",
+"103",
+"104"
+],
+"correct": 3
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Nima uchun Temur qo’ng’iroq qilishni xohlamadi?",
+"answer": "U “bu bizning ishimiz emas, kattalar ishonishmaydi, aldayapti deyishadi” deb o’yladi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Zulfiyaning qo’ng’irog’i qanday natija berdi va nima uchun bu muhim edi?",
+"answer": "Gaz xizmati quvur teshilganini topib tuzatdi. Aytilishicha, qo’ng’iroq o’z vaqtida bo’lmasa, gaz birdan portlab ketishi mumkin edi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "“Beparvo bo’lmang” degan jumlani o’z so’zlaringiz bilan izohlang va unga mos o’z misolingizni keltiring.",
+"answer": "Xavfni sezsang, boshqalar e’tibor bermasa ham, kattalarga yoki mutasaddi xizmatga xabar ber. Misol: ko’chada yiqilgan odamga tez yordam chaqirish."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Favqulodda xizmatlar raqamlari (101, 102, 103, 104) va qachon qo’ng’iroq qilish kerakligi ko’rsatilgan eslatma-kartochka tayyorlang.",
+"answer": ""
+}
+]
+},
+{
+"id": 29,
+"section": 3,
+"title": "29-mavzu. Jonzotlarni sevamiz (56–57-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Nasiba hayvonot bog’ida qanday muammoga duch keldi?",
+"answer": "B.",
+"options": [
+"Hayvonlar kasal edi",
+"Ba’zi odamlar bog’ qoidalarini buzayotgan edi",
+"Bog’ yopiq edi",
+"Chiptalar yo’q edi"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Nasiba hayvonot bog’i rahbariyatiga nima taklif qildi va Dinara opa qanday javob berdi?",
+"answer": "Dinara opa bog’ga har kuni yangi odamlar kelishini va ularga yordam kerakligini aytdi. Nasiba volontyor bo’lishni taklif qildi, Dinara opa xursand bo’lib, taklifni qabul qildi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Qaysi g’oya qoidabuzarliklarni sezilarli kamaytirdi? Nima uchun u ishladi deb o’ylaysiz?",
+"answer": "Bolalar har bir qafas oldiga hayvon nomidan iltimosnoma yozib qo’ydi (“Iltimos, derazani taqillatmang”). Odamlar hayvonning “ovozini” eshitgandek bo’lib, rahmi keldi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Nima uchun bu qoidalarga rioya qilish faqat jonivorlar uchun emas, insonlar uchun ham foydali?",
+"answer": "Hayvonlar tinch bo’lsa, ular sog’lom bo’ladi va tashrif buyuruvchilarga xavf tug’dirmaydi; odamlar ham tabiatni hurmat qilishni o’rganadi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Maktab hovlisidagi qush yoki mushuklar uchun “Iltimos…” shaklidagi 3 ta lavha matni yozing.",
+"answer": ""
+}
+]
+},
+{
+"id": 30,
+"section": 3,
+"title": "30-mavzu. Shaxsiy chegaralar (58–59-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Shaxsiy chegaraga nimalar kiradi?",
+"answer": "A.",
+"options": [
+"Tana, buyumlar, fikrlar, qarashlar, qadriyatlar",
+"Faqat uy",
+"Faqat tana",
+"Maktab hovlisi"
+],
+"correct": 0
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Dialogda bolalar qaysi vaziyatlarni shaxsiy chegaraning buzilishi deb hisoblashmoqda?",
+"answer": "Kimdir ust-bosh, oyoq kiyim va ularning narxini muhokama qilsa; sababsiz ota-onaning maoshi yoki do’stning sirlarini so’rasa. Bunday paytda cho’ntagini titkilashganday his qilishadi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Shaxsiy chegarangiz buzilsa, qaysi harakatlar to’g’ri, qaysilari noto’g’ri? Asoslang.",
+"answer": "Javob (mantiqiy javob; kitobda kalit berilmagan): To’g’ri: bas qilishni talab qilish, bu yoqmasligini tinch aytish, gapingizga quloq solmasa kattalarni yordamga chaqirish (sabr qilish va bahslashmaslik ham mojaroni kuchaytirmaydi). Noto’g’ri: urishib haydab yuborish va uning chegarasini ham buzishga urinish, chunki bu mojaroni kuchaytiradi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Boshqalarning shaxsiy chegarasini hurmat qilayotganingizni qanday bilsa bo’ladi? Misollar keltiring.",
+"answer": "Ruxsatsiz buyumini olmayman, shaxsiy savollar bermayman, “yo’q” desa, tushunaman, tanasiga ruxsatsiz tegmayman."
+},
+{
+"id": "task",
+"type": "task",
+"q": "“Men shaxsiy chegaram buzilganda …” mavzusida 3 ta jumla yozing (nima deyman, nima qilaman, kimga aytaman).",
+"answer": ""
+}
+]
+},
+{
+"id": 31,
+"section": 4,
+"title": "31-mavzu. Ilm-fan olami va ilmiy kashfiyotlar (60–65-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Birinchi antibiotik qaysi olim tomonidan kashf qilingan?",
+"answer": "B (penitsillin, 1928-yil 28-sentabr).",
+"options": [
+"Rentgen",
+"Aleksandr Fleming",
+"Martin Kuper",
+"Boris Grabovskiy"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Rentgen nurlari kashf qilinishi tufayli nima imkoni paydo bo’ldi?",
+"answer": "Inson tanasining tuzilishini (ichki a’zolarini) ko’rish imkoni."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Dastlabki ENIAC kompyuteri bilan hozirgi kompyuterlar o’rtasida qanday farq bor?",
+"answer": "ENIAC 1946-yilda taqdim qilingan, og’irligi 30 tonna, ichida 18 000 elektron lampa bor edi va soniyada atigi 5000 amal bajarar edi. Hozirgi kompyuterlar soniyasiga 100 milliongacha amal bajaradi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Olimlar (D. Dalimova, I. Abdurahmonov, O. Roziqov) o’z yo’llari haqida gapirganda qanday umumiy maslahat berishgan? Siz qaysi biriga qo’shilasiz?",
+"answer": "Qiziqish bilan o’rganish, o’z oldiga maqsad qo’yish, izlanish va tajriba qilish, mehnat qilish, kasbning ustasi bo’lish, chet tili bilish. Shaxsiy javob asoslangan bo’lsa, qabul qilinadi."
+},
+{
+"id": "task",
+"type": "task",
+"q": "O’zingiz yoqtirgan kashfiyotni tanlab, “U qachon va kim tomonidan kashf qilingan, hayotimizni qanday o’zgartirgan?” mavzusida 5 gapdan iborat kichik hisobot tayyorlang. (Kashfiyotlardan ikkita ijobiy va bitta salbiy tomonini ayting.)",
+"answer": ""
+}
+]
+},
+{
+"id": 32,
+"section": 4,
+"title": "32-mavzu. Dunyoga yuz ochgan internet (66–69-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Anvar matematikadan nazorat ishiga tayyorlanishda internetdan qanday foydalandi?",
+"answer": "B.",
+"options": [
+"Faqat o’yin o’ynadi",
+"Sinfdoshlari yuborgan mavzularni o’rgandi va internetdan qo’shimcha ma’lumot qidirdi",
+"Hech narsa qilmadi",
+"Boshqalarning ishini ko’chirdi"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Davron o’qituvchiga she’rni nima uchun topshirdi va keyin nima bo’ldi?",
+"answer": "U she’r yoza olmagani uchun internetdan ko’chirib qo’ydi. O’qituvchi tanlovga yuboriladigan she’rlar ko’chirilgan yoki yo’qligi tekshirilishini aytdi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Nima uchun boshqalarning asarini internetdan ko’chirib olish noto’g’ri? Davron qanday yo’l tutishi kerak?",
+"answer": "Bu boshqa odamning mehnatini o’zlashtirish (o’g’irlik) va yolg’on gapirish. Davron haqiqatni o’qituvchiga aytib, o’z she’rini yozishga harakat qilishi kerak."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Internetda ro’yxatdan o’tishda qanday shaxsiy ma’lumotlarni bermaslik kerak va nima uchun? “Xavfsiz internet” uchun 3 ta qoida taklif qiling.",
+"answer": "Uy manzili, parol, ota-ona telefoni, bank kartasi, shaxsiy rasmlar: ular begonalar qo’liga tushsa, firibgarlik va xavf bo’lishi mumkin. Qoidalar: noma’lum odam bilan yozishmaslik; parolni hech kimga aytmaslik; ishonchsiz havolalarga kirmaslik, kattalarga so’rash."
+},
+{
+"id": "task",
+"type": "task",
+"q": "“Internet – ko’makchi va xavfli bo’lishi mumkin” mavzusida 2 ustunli jadval tuzing (foydasi / ehtiyot bo’lish kerak).",
+"answer": ""
+}
+]
+},
+{
+"id": 33,
+"section": 4,
+"title": "33-mavzu. Chet tillari nima uchun o’rganiladi (70–73-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Malika qaysi tilni o’rganmoqda?",
+"answer": "B (Zarina ingliz tilini o’rganmoqda).",
+"options": [
+"Ingliz",
+"Fransuz",
+"Nemis",
+"Ispan"
+],
+"correct": 1
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Parijda musobaqada Malika va Zarina topshiriqni qanday bajardi?",
+"answer": "Malika yozuvlarni o’zi tarjima qildi; Zarina telefonidagi tarjimon dasturining kamerasini yozuvga qaratib tarjimani bilib oldi."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Dadasi onlayn-tarjimon haqida nima degan? Nima uchun baribir til o’rganish zarur?",
+"answer": "Safarda onlayn-tarjimon ham kerak, lekin inson dunyodagi barcha tillarni o’rganib ololmaydi. Til biladigan odam ko’proq odam bilan erkin gaplasha oladi, imkoniyati kengroq bo’ladi, o’zga yurt madaniyatini yaxshi tushunadi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "“Til bilgan elga manzur” maqolini izohlang. Ravshan Ermatov hikoyasi bu maqolning to’g’riligini qanday tasdiqlaydi?",
+"answer": "Chet tilini biladigan odamni boshqa xalqlar hurmat qiladi, u bilan hamkorlik qilishadi. Ermatov ingliz tilini yaxshi bilgani uchun dunyoning 80 dan ortiq mamlakatida hakam bo’lib ishlashi mumkin."
+},
+{
+"id": "task",
+"type": "task",
+"q": "Is’hoqxon Ibrat haqida matn asosida 4 ta fakt yozing (necha tilni bilgan, qanday kitob yozgan va h.k.), keyin chet tilini tez o’rganish bo’yicha 5 ta tavsiya ro’yxatini tuzing.",
+"answer": ""
+}
+]
+},
+{
+"id": 34,
+"section": 4,
+"title": "34-mavzu. Cheksiz olam: sayohat va do’stlik (74–77-betlar)",
+"items": [
+{
+"id": "q1",
+"type": "mcq",
+"q": "Nargizaning orzusi nima edi?",
+"answer": "A.",
+"options": [
+"Dunyodagi beshta qit’aning har biridan do’st orttirish",
+"Uchuvchi bo’lish",
+"Olim bo’lish",
+"Rassom bo’lish"
+],
+"correct": 0
+},
+{
+"id": "q2",
+"type": "open",
+"q": "Quyidagi joylarni mamlakatlar bilan moslang: Viktoriya sharsharasi, Piza minorasi, Machu-Pikchu, Katta To’siqli rif, Chink qirg’oqlari.",
+"answer": "Zambiya; Italiya; Peru; Avstraliya; O’zbekiston (Ustyurt platosi)."
+},
+{
+"id": "q3",
+"type": "open",
+"q": "Anvarning akasi unga qanday xulosa chiqarishga yordam berdi? Dunyo bo’ylab sayohat qilish imkoniyatini nima kengaytiradi?",
+"answer": "Muvaffaqiyatli inson bo’lib yetishish: yaxshi o’qish, universitetga kirish, o’z sohasining haqiqiy mutaxassisiga aylanish. Sayohat imkoniyatini musobaqa va olimpiadalar, tanlovlar, tilni bilish va kasb ham kengaytiradi."
+},
+{
+"id": "q4",
+"type": "open",
+"q": "Nargiza ingliz tilini o’rganmaganida nimani yo’qotgan bo’lardi? Siz qaysi 3 ta mamlakatga sayohat qilmoqchisiz va nima uchun?",
+"answer": "Dunyoning turli joylaridagi tengdoshlari bilan do’stlashish va ularning yurtidagi ajoyibotlar haqida bilish imkoniyatini. Ikkinchi qism – o’quvchining shaxsiy javobi, asosi bilan."
+},
+{
+"id": "task",
+"type": "task",
+"q": "“Mening orzu qilgan sayohatim” mavzusida kichik loyiha tayyorlang: mamlakat, nima ko’rmoqchisiz, qaysi tilni bilish kerak, yo’lda nimani o’rganasiz.",
+"answer": ""
+}
+]
+}
+]
+}

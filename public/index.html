@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="uz"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tarbiya 4-sinf — PIRLS savollari</title>
+<style>
+:root{--bg:#fbf9f4;--card:#fff;--ink:#1d2a24;--mut:#6b7770;--g:#1f5c45;--gl:#e8f1ea;--line:#ddd8cb;--ok:#2e8b57;--bad:#c0392b;--ta:#f8f4ec}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,Segoe UI,sans-serif;padding-bottom:84px}
+h1,h2,h3,.serif{font-family:Georgia,"Times New Roman",serif}
+.wrap{max-width:900px;margin:0 auto;padding:0 16px}
+header{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:5}
+header .wrap{display:flex;justify-content:space-between;align-items:center;padding:10px 16px}
+.kick{font-size:12px;letter-spacing:.12em;color:var(--g);font-weight:600}
+.pill{background:var(--gl);color:var(--g);border-radius:99px;padding:4px 12px;font:600 14px ui-monospace,monospace}
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:22px 0}
+.tab{border:1px solid var(--line);background:#fff;border-radius:99px;padding:9px 18px;cursor:pointer;font-weight:600;color:var(--ink)}
+.tab.on{background:var(--g);color:#fff;border-color:var(--g)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;margin-bottom:20px}
+.card>h3{margin:0;padding:16px 20px;background:var(--gl);font-size:19px}
+.q{padding:18px 20px;border-top:1px solid #eee}.q:first-of-type{border-top:0}
+.qt{display:flex;gap:10px;font-weight:600}.num{flex:none;width:24px;height:24px;border-radius:50%;background:var(--g);color:#fff;font-size:13px;display:grid;place-items:center;margin-top:2px}
+.opts{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:12px}
+@media(max-width:600px){.opts{grid-template-columns:1fr}}
+.opt{border:2px solid var(--line);border-radius:12px;padding:11px 14px;background:#fff;cursor:pointer;text-align:left;font:inherit}
+.opt b{margin-right:8px;color:var(--g)}.opt.ok{border-color:var(--ok);background:#e6f5ec}.opt.no{border-color:var(--bad);background:#fdeceb}.opt:disabled{cursor:default}
+textarea{width:100%;min-height:78px;margin-top:12px;border:1px solid var(--line);border-radius:10px;background:var(--ta);padding:10px;font:inherit;resize:vertical}
+.btn{background:var(--g);color:#fff;border:0;border-radius:10px;padding:10px 18px;font-weight:600;cursor:pointer;font-size:15px}
+.btn:disabled{opacity:.45;cursor:default}.btn.sec{background:#fff;color:var(--g);border:1px solid var(--g)}.btn.red{background:var(--bad)}
+.ref{margin-top:10px;padding:10px 14px;background:var(--gl);border-left:4px solid var(--g);border-radius:8px;font-size:15px}
+.ref small{display:block;color:var(--mut);font-weight:600;margin-bottom:2px}
+.task .num{background:#b7791f}
+.nav{display:flex;gap:10px;align-items:center;margin-bottom:16px}.nav select{flex:1;padding:10px;border-radius:10px;border:1px solid var(--line);font:inherit;background:#fff}
+.bar{position:fixed;bottom:0;left:0;right:0;background:#fff;border-top:1px solid var(--line)}
+.bar .wrap{display:flex;justify-content:space-between;align-items:center;padding:14px 16px}
+.login{max-width:420px;margin:12vh auto;background:#fff;border:1px solid var(--line);border-radius:16px;padding:28px}
+.login input{width:100%;padding:12px;border:1px solid var(--line);border-radius:10px;font:inherit;margin:14px 0}
+table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+th,td{padding:10px 12px;text-align:left;border-bottom:1px solid #eee;font-size:15px}th{background:var(--gl);font-size:13px;color:var(--g)}
+tr.row{cursor:pointer}tr.row:hover{background:#faf8f2}
+.prog{height:8px;background:#eee;border-radius:9px;min-width:90px;overflow:hidden}.prog i{display:block;height:100%;background:var(--g)}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%;background:#bbb;margin-right:6px}.dot.on{background:var(--ok)}
+.chips{display:flex;flex-wrap:wrap;gap:4px}.chip{width:26px;height:26px;border-radius:6px;font-size:11px;display:grid;place-items:center;color:#fff;background:#d6d2c6}.chip.t{background:var(--ok)}.chip.f{background:var(--bad)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:18px 0}.stat{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px}.stat b{font-size:26px;display:block;color:var(--g)}
+.hide{display:none}.err{color:var(--bad);font-size:14px}.tbl{overflow-x:auto}
+</style></head><body><div id="app"></div>
+<script>
+const $=s=>document.querySelector(s),app=$('#app');
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const api=async(p,o={})=>{const r=await fetch(p,{method:o.body?'POST':'GET',headers:{'Content-Type':'application/json',...(o.pin?{'x-pin':o.pin}:{})},body:o.body?JSON.stringify(o.body):undefined});if(!r.ok)throw new Error((await r.json().catch(()=>({}))).error||'Xato');return r.json()};
+const ssGet=k=>{try{return sessionStorage.getItem(k)}catch{return null}},ssSet=(k,v)=>{try{sessionStorage.setItem(k,v)}catch{}};
+let Q,me,topic=1,t0=Date.now(),timer;
+const LET='ABCD';
+function route(){clearInterval(timer);location.hash==='#teacher'?teacherLogin():studentLogin()}
+addEventListener('hashchange',route);
+
+/* ---------- O'QUVCHI ---------- */
+async function studentLogin(){
+  const saved=ssGet('name')||'';
+  app.innerHTML=`<div class="login"><div class="kick">TARBIYA · 4-SINF</div><h1 style="margin:6px 0">PIRLS savollari</h1><p style="color:var(--mut);margin:0">Ism va familiyangizni kiriting</p>
+  <input id="nm" maxlength="40" placeholder="Masalan: Ali Valiyev" value="${esc(saved)}"><div class="err" id="er"></div><button class="btn" id="go" style="width:100%">Boshlash</button></div>`;
+  const go=async()=>{try{const n=$('#nm').value.trim();if(!n)return $('#er').textContent='Ismingizni yozing';
+    Q=Q||await api('/api/questions');me=await api('/api/join',{body:{name:n}});ssSet('name',me.name);topic=me.topic||1;t0=Date.now();quiz()}catch(e){$('#er').textContent=e.message}};
+  $('#go').onclick=go;$('#nm').addEventListener('keydown',e=>{if(e.key==='Enter')go()});
+}
+function quiz(){
+  const T=Q.topics.find(t=>t.id===topic),sec=Q.sections.find(s=>s.id===T.section);
+  const mcqDone=Object.keys(me.answers).filter(k=>k.endsWith(':q1')).length;
+  app.innerHTML=`<header><div class="wrap"><div><div class="kick">TARBIYA · 4-SINF</div><div>${esc(me.name)}</div></div><div><span class="pill" id="tm">0:00</span> <span class="pill">${mcqDone} / ${Q.topics.length}</span></div></div></header>
+  <div class="wrap"><div class="tabs">${Q.sections.map(s=>`<button class="tab ${s.id===sec.id?'on':''}" data-s="${s.id}">${esc(s.title.split('.')[0])}</button>`).join('')}</div>
+  <h2 style="font-size:26px;margin:0 0 16px">${esc(sec.title.replace(/^[IV]+ BO’LIM\. /,'').replace(/^/,sec.title.split('.')[0]+'. '))}</h2>
+  <div class="nav"><button class="btn sec" id="pv" ${topic===1?'disabled':''}>←</button>
+  <select id="sel">${Q.topics.filter(t=>t.section===sec.id).map(t=>`<option value="${t.id}" ${t.id===topic?'selected':''}>${esc(t.title)}</option>`).join('')}</select>
+  <button class="btn sec" id="nx" ${topic===Q.topics.length?'disabled':''}>→</button></div>
+  <div class="card"><h3>${esc(T.title)}</h3>${T.items.map(i=>item(T,i)).join('')}</div></div>
+  <div class="bar"><div class="wrap"><span><b>${mcqDone}</b> / ${Q.topics.length} test belgilandi</span><button class="btn" id="fin">Yakunlash ✓</button></div></div>`;
+  tick();clearInterval(timer);timer=setInterval(tick,1000);
+  document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>go(Q.topics.find(t=>t.section===+b.dataset.s).id));
+  $('#sel').onchange=e=>go(+e.target.value);$('#pv').onclick=()=>go(topic-1);$('#nx').onclick=()=>go(topic+1);$('#fin').onclick=finish;
+  document.querySelectorAll('.opt').forEach(b=>b.onclick=()=>answer(b.dataset.q,b.dataset.v));
+  document.querySelectorAll('.chk').forEach(b=>b.onclick=()=>answer(b.dataset.q,$('#ta-'+b.dataset.q).value.trim()));
+}
+function item(T,i){
+  const a=me.answers[T.id+':'+i.id],n=i.type==='task'?'★':i.id.slice(1),cls=i.type==='task'?'q task':'q';
+  let h=`<div class="${cls}"><div class="qt"><span class="num">${n}</span><span>${i.type==='task'?'<i>Topshiriq. </i>':''}${esc(i.q)}</span></div>`;
+  if(i.type==='mcq'){
+    h+=`<div class="opts">${i.options.map((o,k)=>{let c='';if(a){if(k===a.ref)c='ok';else if(k===+a.value)c='no'}
+      return `<button class="opt ${c}" data-q="${i.id}" data-v="${k}" ${a?'disabled':''}><b>${LET[k]})</b>${esc(o)}</button>`}).join('')}</div>`;
+    if(a)h+=`<div class="ref"><small>${a.correct?'✓ To’g’ri!':'✗ Noto’g’ri. To’g’ri javob: '+LET[a.ref]}</small></div>`;
+  }else{
+    h+=`<textarea id="ta-${i.id}" placeholder="Javobingizni yozing..." ${a?'disabled':''}>${a?esc(a.value):''}</textarea>`;
+    if(!a)h+=`<button class="btn chk" data-q="${i.id}" style="margin-top:10px">Javobni tekshirish</button>`;
+    else h+=`<div class="ref"><small>Namunaviy javob</small>${esc(a.ref)}</div>`;
+  }
+  return h+'</div>';
+}
+async function answer(qid,value){
+  if(!value)return alert('Avval javob yozing');
+  const r=await api('/api/answer',{body:{id:me.id,topic,qid,value}});
+  me.answers[topic+':'+qid]={value:String(value),correct:r.correct,ref:r.ref};quiz();
+}
+function go(t){topic=Math.max(1,Math.min(Q.topics.length,t));api('/api/pos',{body:{id:me.id,topic}}).catch(()=>{});quiz();scrollTo(0,0)}
+function tick(){const e=$('#tm');if(e){const s=Math.floor((Date.now()-t0)/1000);e.textContent=Math.floor(s/60)+':'+String(s%60).padStart(2,'0')}}
+function finish(){
+  const m=Object.entries(me.answers).filter(([k])=>{const[t,q]=k.split(':');return Q.topics.find(x=>x.id==t).items.find(i=>i.id===q).type==='mcq'});
+  const ok=m.filter(([,a])=>a.correct).length,open=Object.keys(me.answers).length-m.length;
+  app.innerHTML=`<div class="login"><div class="kick">NATIJA</div><h1 style="margin:6px 0">${esc(me.name)}</h1>
+  <p style="font-size:34px;margin:8px 0;color:var(--g)" class="serif"><b>${ok}</b> / ${Q.topics.length}</p><p>To’g’ri test javoblari. Test belgilangan: ${m.length}. Ochiq savollarga javob: ${open}.</p>
+  <button class="btn" id="bk" style="width:100%">Davom etish</button></div>`;$('#bk').onclick=quiz;
+}
+
+/* ---------- O'QITUVCHI ---------- */
+let PIN='';
+function teacherLogin(){
+  app.innerHTML=`<div class="login"><div class="kick">O’QITUVCHI PANELI</div><h1 style="margin:6px 0">Kirish</h1>
+  <input id="pin" type="text" inputmode="numeric" autocomplete="off" autofocus placeholder="PIN-kod (raqamlar)"><div class="err" id="er"></div><button class="btn" id="go" style="width:100%">Kirish</button></div>`;
+  const go=async()=>{PIN=$('#pin').value.trim();try{Q=Q||await api('/api/questions');await api('/api/teacher/students',{pin:PIN});dash()}catch(e){$('#er').textContent=e.message}};
+  $('#go').onclick=go;$('#pin').addEventListener('keydown',e=>{if(e.key==='Enter')go()});setTimeout(()=>$('#pin')&&$('#pin').focus(),50);
+}
+async function dash(){
+  app.innerHTML=`<header><div class="wrap"><div><div class="kick">O’QITUVCHI PANELI</div><b>Tarbiya 4-sinf · PIRLS</b></div><button class="btn red" id="rs">Hammasini tozalash</button></div></header>
+  <div class="wrap"><div id="st" class="stats"></div><div class="tbl" id="tb"></div><div id="dt"></div></div>`;
+  $('#rs').onclick=async()=>{if(confirm('Barcha o’quvchilar natijalari o’chiriladi. Davom etasizmi?')){await api('/api/teacher/reset',{pin:PIN,body:{id:'*'}});load()}};
+  await load();clearInterval(timer);timer=setInterval(load,3000);
+}
+let open=null;
+async function load(){
+  let d;try{d=await api('/api/teacher/students',{pin:PIN})}catch{return}
+  const S=d.students.sort((a,b)=>a.name.localeCompare(b.name)),N=Q.topics.length,on=S.filter(s=>d.now-s.seen<20000).length;
+  const avg=S.length?(S.reduce((x,s)=>x+s.correct,0)/S.length).toFixed(1):0;
+  $('#st').innerHTML=`<div class="stat"><b>${S.length}</b>O’quvchilar</div><div class="stat"><b>${on}</b>Hozir onlayn</div><div class="stat"><b>${avg}</b>O’rtacha to’g’ri (${N} dan)</div>`;
+  $('#tb').innerHTML=S.length?`<table><tr><th></th><th>Ism</th><th>Hozir qayerda</th><th>To’g’ri / belgilangan</th><th>Jarayon</th><th>Ochiq</th></tr>`+S.map(s=>{
+    const T=Q.topics.find(t=>t.id===s.topic);
+    return `<tr class="row" data-id="${esc(s.id)}"><td><span class="dot ${d.now-s.seen<20000?'on':''}"></span></td><td><b>${esc(s.name)}</b></td><td>${esc(T.title.replace(/\s\(.*\)$/,''))}</td>
+    <td><b style="color:var(--g)">${s.correct}</b> / ${s.mcqDone}</td><td><div class="prog"><i style="width:${s.mcqDone/N*100}%"></i></div></td><td>${s.openDone}</td></tr>`}).join('')+'</table>'
+    :'<p style="color:var(--mut)">Hali hech kim kirmagan. O’quvchilarga server manzilini bering.</p>';
+  document.querySelectorAll('.row').forEach(r=>r.onclick=()=>{open=r.dataset.id;detail()});
+  if(open)detail(true);
+}
+async function detail(quiet){
+  const s=await api('/api/teacher/student?id='+encodeURIComponent(open),{pin:PIN});
+  const mc=Q.topics.map(t=>{const a=s.answers[t.id+':q1'];return `<span class="chip ${a?(a.correct?'t':'f'):''}" title="${esc(t.title)}">${t.id}</span>`}).join('');
+  const rows=Q.topics.flatMap(t=>t.items.filter(i=>i.type!=='mcq'&&s.answers[t.id+':'+i.id]).map(i=>{const a=s.answers[t.id+':'+i.id];
+    return `<div class="q"><small style="color:var(--mut)">${esc(t.title)} · ${i.type==='task'?'Topshiriq':i.id.slice(1)+'-savol'}</small><div><b>${esc(i.q)}</b></div><div style="margin-top:6px">${esc(a.value)}</div><div class="ref"><small>Namunaviy javob</small>${esc(i.answer)}</div></div>`}).join(''));
+  $('#dt').innerHTML=`<div class="card" style="margin-top:20px"><h3 style="display:flex;justify-content:space-between;align-items:center">${esc(s.name)}<span><button class="btn sec" id="cl">Yopish</button> <button class="btn red" id="dl">O’chirish</button></span></h3>
+  <div class="q"><div style="color:var(--mut);margin-bottom:8px">Test natijalari (yashil – to’g’ri, qizil – xato, kulrang – javob berilmagan)</div><div class="chips">${mc}</div></div>${rows.join('')||'<div class="q" style="color:var(--mut)">Ochiq javoblar hali yo’q.</div>'}</div>`;
+  $('#cl').onclick=()=>{open=null;$('#dt').innerHTML=''};
+  $('#dl').onclick=async()=>{if(confirm(s.name+' natijalari o’chirilsinmi?')){await api('/api/teacher/reset',{pin:PIN,body:{id:s.id}});open=null;$('#dt').innerHTML='';load()}};
+}
+route();
+</script></body></html>
